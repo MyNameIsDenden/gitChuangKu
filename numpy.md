@@ -2,7 +2,7 @@
 
 numpy.linspace(start, stop, num=50, endpoint=True, retstep=False, dtype=None)
 
-numpy.linspace(start, stop, num=50, endpoint=True, retstep=False, dtype=None)
+numpy.linspace(start, stop, num=50, endpoint=True, retstep=False, dtype=None)---------------
 
 在指定的间隔内返回均匀间隔的数字。
 
@@ -19,4 +19,3 @@ numpy.linspace(start, stop, num=50, endpoint=True, retstep=False, dtype=None)
 5. **np.random.random(size = (2,2))**-->生成随机浮点数阵列
 6. **np.random.choice(a, size = None, replace = True, p = None)** --> 从给定数组a中随机选择,p可以指定a中每个元素被选择的概率
 7. **np.random.seed()** -->使随即数据可预测，对于同一个seed，生成的随机数相同
-   
